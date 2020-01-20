@@ -1,7 +1,5 @@
 import java.util.*;
 import java.util.regex.*;
-import java.io.*;
-import java.nio.file.*;
 
 public class Lexer {
     /**
